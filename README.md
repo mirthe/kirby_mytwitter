@@ -25,7 +25,12 @@ Include one or more of the following snippets to display your tweets or likes on
 
 ## Example 
 
+https://mirthe.org/tweets
+
 <img src="example-tweets.png" alt="Example tweets">
+
+https://mirthe.org/tweets/likes
+
 <img src="example-likes.png" alt="Example likes">
 
 ## Todo
