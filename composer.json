@@ -1,0 +1,13 @@
+{
+    "name": "mirthe/mytwitter",
+    "description": "Show recent tweets I posted or the tweets I liked",
+    "keywords": ["kirby-plugin", "twitter", "tweets", "favorite", "like"],
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mirthe Valentijn",
+            "email": "me@Mirthe.org"
+        }
+    ]
+}
