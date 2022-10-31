@@ -1,5 +1,6 @@
 {
     "name": "mirthe/mytwitter",
+    "version": "1.0",
     "description": "Show recent tweets I posted or the tweets I liked",
     "homepage": "https://github.com/mirthe/mytwitter",
     "keywords": ["kirby-plugin", "twitter", "tweets", "favorite", "like"],
