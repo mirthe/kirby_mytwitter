@@ -26,10 +26,10 @@ Include one or more of the following snippets to display your tweets or likes on
 ## Example 
 
 ### Likes
-<img src="example-tweets.png" alt="Example tweets">
+<p><img src="example-tweets.png" alt="Example tweets"></p>
 
 ### Posts
-<img src="example-likes.png" alt="Example likes">
+<p><img src="example-likes.png" alt="Example likes"></p>
 
 ## Todo
 
