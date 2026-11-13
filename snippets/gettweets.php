@@ -18,14 +18,14 @@ function buildAuthorizationHeader($oauth) {
 }
 
 function returnTweet($twitter_timeline,$count){
-    $oauth_access_token         = option('twitter.accesstoken');
-    $oauth_access_token_secret  = option('twitter.accesstokensecret');
-    $consumer_key               = option('twitter.consumerkey');
-    $consumer_secret            = option('twitter.consumersecret');
+    $oauth_access_token         = option('mirthe.mytwitter.accessToken');
+    $oauth_access_token_secret  = option('mirthe.mytwitter.accessTokenSecret');
+    $consumer_key               = option('mirthe.mytwitter.consumerKey');
+    $consumer_secret            = option('mirthe.mytwitter.consumerSecret');
     
     //  create request
         $request = array(
-            'screen_name'       => option('twitter.username'),
+            'screen_name'       => option('mirthe.mytwitter.username'),
             'count'             => $count
         );
 
